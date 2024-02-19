@@ -1,3 +1,5 @@
 # MLOPS
 ```bash
-Create Environment 
+# Create Environment 
+python -m venv Environment Name
+```
