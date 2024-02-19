@@ -5,7 +5,7 @@ list_of_files = [
     ".github/workdir/.gitkeep", # continuous integration / continuous deployment (CI/CD)
     "src/__init__.py",
     "src/components/__init__.py",
-    "src/components/data_ingestion.py",
+    "src/components/data_ingestion.py", 
     "src/components/data_transformation.py",
     "src/components/model_trainer.py",
     "src/components/model_evaluation.py",
@@ -24,7 +24,7 @@ list_of_files = [
     "setup.py",
     "setup.cfg",
     "pyproject.toml",
-    "tox.ini",
+    "tox.ini", # Test our project using different different test cases
     "experiments/experiments.ipynb"
 
 ]
